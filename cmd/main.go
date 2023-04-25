@@ -3,9 +3,11 @@
 // date:    20230114
 // author:  Leam Hall
 
-// Notes:
-//  - need to take the project module name, and run go mod init.
-
+// TODO:
+//  need to take the project module name, and run go mod init.
+//  Add a bin directory
+//  Modify the Makefile to make the project binaries
+ 
 // Package writeGoProject automates the directory layout of a new Go project.
 package main
 
